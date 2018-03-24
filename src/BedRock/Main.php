@@ -1,7 +1,7 @@
 <?php
 
 
-namspace BedRock\Main;
+namspace BedRock;
 
 use pocketmine\block\Block;
 use pocketmine\block;
